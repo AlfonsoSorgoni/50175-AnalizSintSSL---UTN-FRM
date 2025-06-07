@@ -1,0 +1,24 @@
+{
+  "name": "analizador",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlfonsoSorgoni/50175-AnalizSintSSL---UTN-FRM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlfonsoSorgoni/50175-AnalizSintSSL---UTN-FRM/issues"
+  },
+  "homepage": "https://github.com/AlfonsoSorgoni/50175-AnalizSintSSL---UTN-FRM#readme",
+  "description": "",
+  "dependencies": {
+    "antlr4": "^4.13.2"
+  }
+}

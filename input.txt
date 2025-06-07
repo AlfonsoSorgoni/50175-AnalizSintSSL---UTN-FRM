@@ -1,0 +1,19 @@
+switch(mi_variable) {
+    case 1:
+        printf("Se eligio el caso 1");
+        break;
+}
+%%!%%
+switch(otra_variable) {
+    default:
+        printf("Opcion no valida");
+        break;
+}
+%%!%%
+switch(error_var)
+    case 1:
+        printf("Esto fallara");
+        break;
+}
+%%!%%
+printf("Esto no esta permitido por la gramatica");
