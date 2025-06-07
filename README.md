@@ -30,6 +30,12 @@ El programa cumple con los siguientes requisitos:
     npm install
     ```
 
+## Aclaración
+
+* El archivo `input.txt` contiene los cuatro ejemplos de código solicitados para la prueba (dos sintácticamente correctos y dos incorrectos), separados por el delimitador `%%!%%`.
+* La gramática del lenguaje está implementada en el archivo `SublenguajeC.g4`. Adicionalmente, se adjunta el archivo `gramatica_asignada.txt` con la especificación original de la misma.
+
+
 ## Ejecución
 
 [cite_start]Para ejecutar el analizador, utilice el siguiente comando en la terminal: 
